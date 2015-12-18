@@ -19,7 +19,7 @@
 
 
 #**主要项目**
-###**[WeTalk](http://www.bobdong.cn)** 
+###**[WeTalk](https://github.com/d100000/MyResume/blob/master/Utility/WeTalk5.1.apk)** 
 ####**基于Im通讯的语音识别软件，安卓端APP，运用了科大讯飞的API和环信的API，集成在一起。大三时的比赛项目。**  
 没用什么架构和技术，就是搞懂了科大讯飞的接口，和即时通讯的模块而已。还有就是通过了审核，终身免费无限次调用接口了。
 
